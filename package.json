@@ -1,0 +1,7 @@
+{
+  "name": "ephemeral-microvm-orchestrator",
+  "version": "1.0.0",
+  "description": "High-density microVM isolation orchestrator for fast multi-tenant secure execution instances.",
+  "main": "microvm_manager.js",
+  "type": "module"
+}
